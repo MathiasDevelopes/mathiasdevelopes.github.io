@@ -24,6 +24,7 @@ body {
     transition-duration: 0.4s;
     color: black;
     font-size: 90%;
+    cursor: pointer;
 }
 
 .rounded {
